@@ -1,4 +1,4 @@
-<h2 align="center">Rafael Felip | Student - Analysis and systems development | Front-end</h2>  
+<h2 align="center">Rafael Felip | Student - computer network technician | DevOps</h2>  
 <h3 align="center">Hi!, my name is Rafael 👋</h3>
 
 <div align="center">
